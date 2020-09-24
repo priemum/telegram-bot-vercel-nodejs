@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-vercel",
+  "version": "1.0.0",
+  "description": "simple chatbot using nodejs hosted on vercel (now.sh)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eptaccio/telegram-bot-vercel.git"
+  },
+  "author": "@eptaccio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eptaccio/telegram-bot-vercel/issues"
+  },
+  "homepage": "https://github.com/eptaccio/telegram-bot-vercel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "telegraf": "^3.38.0"
+  }
+}
